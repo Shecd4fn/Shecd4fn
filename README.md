@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 
+- 👋 Hi, I’m Lou
 - 👀 I’m interested in finance
 - 🌱 I’m currently learning finance
 - 💞️ I’m looking to collaborate on finance
