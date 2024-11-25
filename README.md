@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lou
-- 👀 I’m interested in finance
-- 🌱 I’m currently learning finance
-- 💞️ I’m looking to collaborate on finance
+- 👀 I’m interested in
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me ..
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
